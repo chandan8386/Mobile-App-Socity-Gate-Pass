@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <cache-path name="cache_csv" path="." />
+    <files-path name="files_csv" path="." />
+    <files-path name="visitor_photos" path="visitor_photos/" />
+    <cache-path name="visitor_photos_cache" path="visitor_photos/" />
+</paths>

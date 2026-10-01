@@ -1,0 +1,6 @@
+{
+  "name": "SocietyGate",
+  "description": "Smart society gate & visitor management, tower-wise maintenance collection, automated ledger and billing, digital notice board, and manager reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

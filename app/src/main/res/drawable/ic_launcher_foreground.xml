@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="26"
+        android:translateY="26">
+        <!-- Shield Background Frame -->
+        <path
+            android:fillColor="#1E293B"
+            android:pathData="M28,2 C40,2 52,6 54,12 C54,34 38,48 28,54 C18,48 2,34 2,12 C4,6 16,2 28,2 Z" />
+        <!-- Shield Border Accent -->
+        <path
+            android:strokeColor="#38BDF8"
+            android:strokeWidth="2.5"
+            android:fillColor="#00000000"
+            android:pathData="M28,4 C38,4 49,8 51,13 C51,33 37,46 28,51 C19,46 5,33 5,13 C7,8 18,4 28,4 Z" />
+        <!-- Tower Silhouette Center -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M22,16 L34,16 L34,36 L22,36 Z" />
+        <path
+            android:fillColor="#38BDF8"
+            android:pathData="M14,24 L20,24 L20,36 L14,36 Z" />
+        <path
+            android:fillColor="#38BDF8"
+            android:pathData="M36,22 L42,22 L42,36 L36,36 Z" />
+        <!-- Window Grids -->
+        <path
+            android:fillColor="#0F172A"
+            android:pathData="M24,19 H26 V21 H24 Z M30,19 H32 V21 H30 Z M24,24 H26 V26 H24 Z M30,24 H32 V26 H30 Z M24,29 H26 V31 H24 Z M30,29 H32 V31 H30 Z" />
+        <!-- Security Gate Barrier Bar -->
+        <path
+            android:fillColor="#F59E0B"
+            android:pathData="M8,38 H48 V41 H8 Z" />
+        <!-- Gate Pillars -->
+        <path
+            android:fillColor="#94A3B8"
+            android:pathData="M6,35 H10 V46 H6 Z M46,35 H50 V46 H46 Z" />
+    </group>
+</vector>
